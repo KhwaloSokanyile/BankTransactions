@@ -5,4 +5,5 @@ People will be able to to make transfare and apply for loans
 The technologies you will need are
 
 1. Visual Studio 2022 .NET 6 with entity framework
-2. SSMS 2018
+2. SQL Server Express
+3. SSMS 2018
